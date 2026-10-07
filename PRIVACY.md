@@ -43,4 +43,4 @@ If this policy changes, the new version will be published at the same address wi
 
 ## Contact
 
-Questions about this policy: add your contact email or website here before publishing.
+Questions about this policy: [teikoapps@proton.me](mailto:teikoapps@proton.me).
